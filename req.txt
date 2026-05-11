@@ -1,0 +1,16 @@
+pandas
+langchain
+langchain-text-splitters
+langchain-community
+langchain-core
+langchain-classic
+huggingface-hub
+sentence-transformers
+transformers
+torch
+python-dotenv
+requests
+beautifulsoup4
+chromadb
+pypdf
+openai
